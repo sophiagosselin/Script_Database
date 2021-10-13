@@ -13,28 +13,45 @@ Scripts are organized generally by the task they are associated with (for more d
 
 
 #### File_Utilities
+
 Scripts that:
+
 -Edit file names
+
 -Rename or reformat file content
+
 -Extract information
+
 Note: These scripts should be applicible to more than just one specific analysis.
 
 #### Databse_Utilities
+
 Scripts that:
+
 -Create databases
+
 -Search databases
+
 -Reformat databases
 
 #### Sequence_Alignment_Utilities
+
 Scripts that:
+
 -Align sequence files
+
 -Edit alignments
+
 -Parition alignments
 
 #### Phylogenetic_Utilities
+
 Scripts that:
+
 -Construct phylogenies
+
 -Edit phylogenies
 
 #### Other
+
 Scripts that do not fit the above categories. Please provide a proposed category in the notes section.
