@@ -1,3 +1,4 @@
 Script Name,Subdirectory location,Inputs,Outputs,Language,Dependencies,General Description,Author,In or Out of House,Keywords,Date Submitted,Date Updated
 ---,---,---,---,---,---,---,---,---,---,---,---
 convert_csv_to_markdown.pl,File_Utilities,.csv (comma seperated table),.mrkd (markdown formatted table),perl,none,Converts a csv table using commas as the seperator to a markdown formatted table,Sophia Gosselin,In,markdown/csv,21_10_13,N/A
+metadata_scraper.pl,Database_Utilities,.fasta,.table (tab delimited),perl,none,Takes multifasta input and uses headers to search phagesDB API, then takes associated metadata and outputs a table with all entries,Sophia Gosselin,In,phagesDB/metadata,21_12_07.N/A
